@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-28T23:21:21Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "motor_driver"
+        },
+        "Owner": "Abhimanyu Arora <abhi.arora.sg@gmail.com>",
+        "Size": {
+            "X": 70,
+            "Y": 50
+        }
+    }
+}
